@@ -12,7 +12,7 @@ In this section, describe the analysis you completed for the machine learning mo
 * Machine Learning Process Steps
 	* Created label sets
 	* Split the data into sets of training and testing with train_test_split
-	* Made 2 Models, LogisticRegression and RandomOverSampler
+	* Made 2 Models, Logistic Regression and Random Oversampler
 	* Made predictions of fitted models
 	* Analyzed the data given by the models
 
